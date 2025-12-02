@@ -23,12 +23,12 @@ function Time() {
                 <Digit dig={time[1]} />
             </div>
 
-            <div className="time" style={{ marginLeft: "0.5rem" }}>
+            <div className="time">
                 <Digit dig={time[3]} />
                 <Digit dig={time[4]} />
             </div>
 
-            <div className="time" style={{ marginLeft: "0.5rem" }}>
+            <div className="time">
                 <Digit dig={time[6]} />
                 <Digit dig={time[7]} />
             </div>
